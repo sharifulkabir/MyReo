@@ -1,0 +1,9 @@
+H:\Sharif\ProductManagementSystem\ProductManagementSystem\bin\Debug\ProductManagementSystem.exe.config
+H:\Sharif\ProductManagementSystem\ProductManagementSystem\bin\Debug\ProductManagementSystem.exe
+H:\Sharif\ProductManagementSystem\ProductManagementSystem\bin\Debug\ProductManagementSystem.pdb
+H:\Sharif\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.csprojResolveAssemblyReference.cache
+H:\Sharif\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.Form1.resources
+H:\Sharif\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.Properties.Resources.resources
+H:\Sharif\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.csproj.GenerateResource.Cache
+H:\Sharif\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.exe
+H:\Sharif\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.pdb
